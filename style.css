@@ -1,0 +1,147 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    background-color: grey;
+  }
+
+nav {
+    background-color: greenyellow;
+    display: flex;
+    justify-content: space-between;
+    border-style: solid;
+    padding: 10px;
+    border-radius: 25px;
+    margin: 10px;
+    
+    
+}
+
+#home {
+  text-decoration: none;
+  color: black;
+  
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+  }
+
+.button {
+    padding: 20px;
+    border-style: solid;
+    border-radius: 25px;
+    border-color: black;
+    color: black;
+    background-color: white;
+    transition-duration: 0.7s;
+    font-size: 20px;
+}
+
+.button:hover {
+    background-color: greenyellow;
+    color: white;
+}
+
+#button2{
+  padding: 20px;
+  border-style: solid;
+  border-radius: 25px;
+  border-color: black;
+  color: black;
+  background-color: white;
+  transition-duration: 0.7s;
+  font-size: 20px;
+  
+}
+
+#button3{
+  padding: 20px;
+    border-style: solid;
+    border-radius: 25px;
+    border-color: black;
+    color: black;
+    background-color: white;
+    transition-duration: 0.7s;
+    font-size: 20px;
+    
+  
+}
+
+.button3:hover{
+  background-color: greenyellow;
+  color: white;
+
+}
+
+div{
+  text-align: center;
+ 
+}
+
+#button4{
+  padding: 20px;
+    border-style: solid;
+    border-radius: 25px;
+    border-color: black;
+    color: black;
+    background-color: white;
+    transition-duration: 0.7s;
+    font-size: 20px;
+    
+}
+
+#button5{
+  padding: 20px;
+    border-style: solid;
+    border-radius: 25px;
+    border-color: black;
+    color: black;
+    background-color: white;
+    transition-duration: 0.7s;
+    font-size: 20px;
+    
+}
+
+#button6{
+  padding: 20px;
+    border-style: solid;
+    border-radius: 25px;
+    border-color: black;
+    color: black;
+    background-color: white;
+    transition-duration: 0.7s;
+    font-size: 20px;
+
+
+}
+
+#button7{
+  padding: 20px;
+    border-style: solid;
+    border-radius: 25px;
+    border-color: black;
+    color: black;
+    background-color: white;
+    transition-duration: 0.7s;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
